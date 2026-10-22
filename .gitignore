@@ -1,0 +1,31 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+config/*.local.json
+*.pem
+*.key
+*.p12
+*.pfx
+assets/private/
+private-preview/
+
+# Build output, local dependencies and cache
+dist/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Source workbooks, personal records and historical packages
+*.xlsx
+*.xls
+*.zip
+*.db
+*.sqlite*
+backup/
+evidence/
+site-service/

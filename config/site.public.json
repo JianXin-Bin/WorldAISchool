@@ -1,0 +1,8 @@
+{
+  "logoImage": "assets/world-ai-school-logo.png",
+  "heroImage": "assets/hero-ai-learning-illustration-hd.png",
+  "qrImages": {
+    "personal": "assets/personal-wechat.png",
+    "donation": "assets/wechat-donation-payment.png"
+  }
+}

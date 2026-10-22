@@ -1,0 +1,30 @@
+name: 资源推荐或纠错
+description: 推荐AI学习资源，或报告现有条目的错误及失效链接
+title: "[资源] "
+labels: []
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 资源名称或已有资源ID
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 原始资源链接
+      description: 请提交资源直接页面，不提交自己的推广跳转链接。
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: 推荐理由或问题说明
+      description: 请说明提供什么内容、适合的分类、语言、免费或付费条件，以及实际访问或核验情况。
+    validations:
+      required: true
+  - type: textarea
+    id: license
+    attributes:
+      label: 来源与许可信息
+      description: 如果原页没有明确许可，请写“未明确”。不要上传课程全文、私人二维码、密钥或付费资料。
