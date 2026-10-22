@@ -1,6 +1,6 @@
 # World AI School · 全球AI学习资源网站
 
-精选全球AI学习资源，持续更新，让每个家庭，都能共享全球AI学习资源。
+精选全球AI学习资源，持续更新，提供分类、搜索和原站链接，让每个家庭，都能共享全球AI学习资源。
 
  <div align="center">
   <img src="assets/world-ai-school-logo.png" width="300" alt="微信捐款二维码">
