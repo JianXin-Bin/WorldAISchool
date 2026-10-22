@@ -49,9 +49,9 @@ worldAIschool/
 
 ## 社群与自愿支持
 
-本项目全部导航资源免费开放。同时，构建了相关“AI交流学习群”，可查看`assets/personal-wechat.png` 用于添加维护者、备注“AI交流”联系入群；
+本项目全部导航资源免费开放。同时，构建了相关“AI交流学习群”，可查看 ![个人微信二维码](assets/personal-wechat.png) 用于添加维护者、备注"AI交流"联系入群；
 
-如果本项目对你有用的话，如果想捐款，支持网站运维，持续更新全球AI学习资源，可查看`assets/wechat-donation-payment.png` 用于微信扫码捐款。
+如果本项目对你有用的话，如果想捐款，支持网站运维，持续更新全球AI学习资源，可查看 ![微信捐款二维码](assets/wechat-donation-payment.png) 用于微信扫码捐款。
 
 
 ## 许可证和权利边界
