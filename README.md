@@ -3,7 +3,7 @@
 精选全球AI学习资源，持续更新，提供分类、搜索和原站链接，让每个家庭，都能共享全球AI学习资源。
 
  <div align="center">
-  <img src="assets/world-ai-school-logo.png" width="300" alt="logo">
+  <img src="assets/world-ai-school-logo.png" width="250" alt="logo">
 </div>
 
 ## 当前版本
@@ -59,13 +59,13 @@ worldAIschool/
 本项目全部AI学习资源免费开放。同时，构建了相关“AI交流学习群”，供大家学习交流，如果想进群，可扫描下方二维码，然后备注"AI交流"联系入群；
 
 <div align="center">
-  <img src="assets/personal-wechat.png" width="300" alt="个人微信二维码">
+  <img src="assets/personal-wechat.png" width="250" alt="个人微信二维码">
 </div>
 
 最后，如果本项目对你有用的话，如果想捐款，支持网站运维，持续更新全球AI学习资源，可扫描下方二维码，扫码捐款，感谢支持。
 
  <div align="center">
-  <img src="assets/wechat-donation-payment.png" width="300" alt="微信捐款二维码">
+  <img src="assets/wechat-donation-payment.png" width="250" alt="微信捐款二维码">
 </div>
 
 
