@@ -1,7 +1,4 @@
 # World AI School · 全球AI学习资源网站
- <div align="center">
-  <img src="assets/website.png"  alt="网站封面">
-</div>
 
 精选全球AI学习资源，持续更新，提供分类、搜索和原站链接，让每个家庭，都能共享全球AI学习资源。
 
@@ -21,6 +18,9 @@
 
 直接用浏览器打开根目录的 `index.html` ，或者点击在线访问链接：[https://world-ai-school.app.workbuddy.host/](https://world-ai-school.app.workbuddy.host/)
 
+ <div align="center">
+  <img src="assets/website.png"  alt="网站封面">
+</div>
 
 ## 目录结构
 
